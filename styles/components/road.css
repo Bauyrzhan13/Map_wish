@@ -1,0 +1,38 @@
+.road-inner {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #fff;
+  padding: 50px 5px 50px 10px;
+}
+.road-info_inner-block {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  max-width: 1440px;
+}
+.advantage {
+  display: flex;
+  flex-direction: row;
+  margin: 40px;
+}
+
+.picture {
+  width: 80px;
+  height: 80px;
+}
+
+.adv_text {
+  display: flex;
+  flex-direction: column;
+}
+.road-text {
+  padding: 20px;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.road-par {
+  padding: 20px;
+}
